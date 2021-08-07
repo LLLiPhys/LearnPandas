@@ -1,1 +1,1 @@
-# LearnPandas
+# Learn Pandas: UltraQuick Tutorial
