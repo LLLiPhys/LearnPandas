@@ -1,1 +1,1 @@
-# Learn Pandas: UnltraQuick Tutorial in 5 Minutes
+# Learn Pandas: An UnltraQuick Tutorial
